@@ -8,7 +8,7 @@ Here's how it will work:
 - The chatbot will then ask you to specify your preferred time period and days.
 - You can also set up alerts and choose how frequently you want to receive notifications (e.g. every 5 or 10 minutes). Once you secure your spot, you will stop receiving notifications and receive a final message.
 
-Tech stack: Telegram messanger, Python.
+Tech stack: Telegram messenger, Python.
 
 This is my first project for creating a chatbot, so stay tuned for updates.
 
